@@ -17,3 +17,4 @@ At the prompt, type a secure passphrase. For more information, see "Working with
 
 > Enter passphrase (empty for no passphrase): [Type a passphrase]
 > Enter same passphrase again: [Type passphrase again]
+after that navigate to the specific folder that contains your ssh key , open with notepad . copy and paste in ssh key section 
