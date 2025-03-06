@@ -2,9 +2,8 @@
 Open Git Bash.
 
 Paste the text below, substituting in your GitHub email address.
-
-
 git config --global user.name "Name".
+
 git config --global user.email <mail_id>
 
 $ ssh-keygen -t ed25519 -C "your_email@example.com"
